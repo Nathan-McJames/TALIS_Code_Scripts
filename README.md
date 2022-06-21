@@ -6,6 +6,8 @@ These scripts were used for estimating the average treatment effects correspondi
 
 The data from TALIS 2018 can be found at: https://www.oecd.org/education/talis/talis-2018-data.htm
 
+Preprint can be found online at: https://edarxiv.org/nasq9/
+
 Key for file names:  
 TALIS_TREATMENT_OUTCOME.R  
 
