@@ -12,10 +12,10 @@ Preprint can be found online at: https://edarxiv.org/nasq9/
 
 ![alt text](https://github.com/Nathan-McJames/TALIS_Code_Scripts/blob/main/Pictures/retention_ate_github_readme.jpg?raw=true)
 
-Key for file names:  
+**Key for file names:**  
 TALIS_TREATMENT_OUTCOME.R  
 
-Treatment Options:  
+**Treatment Options:**  
 Continual Professional Development - CPD  
 Participation in Induction - INDUCTION  
 Participation in Observation - OBSERVATION  
@@ -27,6 +27,6 @@ Public School - PUBLIC
 Teaching Out-of-Field - OOF  
 Part-Time Contract - 90  
 
-Outcomes:  
+**Outcomes:**  
 Job Satisfaction - JS  
 Desire to Move - DTM  
