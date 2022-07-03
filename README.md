@@ -8,6 +8,8 @@ The data from TALIS 2018 can be found at: https://www.oecd.org/education/talis/t
 
 Preprint can be found online at: https://edarxiv.org/nasq9/
 
+![alt text](https://github.com/Nathan-McJames/TALIS_Code_Scripts/Pictures/Image1.jpg?raw=true)
+
 Key for file names:  
 TALIS_TREATMENT_OUTCOME.R  
 
